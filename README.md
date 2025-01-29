@@ -6,4 +6,9 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Current temperature
 - Wind speed
 - Humidity
-- Weather 
+- Weather
+
+### Sample-Image
+![Homepage](demo/demoimg.png)
+
+<p align="center"><b>Created by Floydscharm</b></p>
