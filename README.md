@@ -3,7 +3,7 @@ Check the weather around you and all over the world at a glance. Rely on the acc
 
 Weather is sometimes difficult to predict. This accurate weather app allows to find out a detailed forecast wherever you are, for any time of the day by tapping on the icons:
 
--Current temperature
--Wind speed
--Humidity
--Weather 
+- Current temperature
+- Wind speed
+- Humidity
+- Weather 
