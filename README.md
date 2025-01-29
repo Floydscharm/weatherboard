@@ -9,6 +9,6 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Weather
 
 ### Sample-Image
-!(demo/demoimg.png)
+![Homepage](demo/demoimg.png)
 
 <p align="center"><b>Created by Floydscharm</b></p>
